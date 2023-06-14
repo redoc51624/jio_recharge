@@ -1,0 +1,362 @@
+{
+    "ERROR": "0",
+    "STATUS": "0",
+    "Operator": "RELIANCE JIO",
+    "Circle": "KOLKATTA",
+    "RDATA": {
+        "FULLTT": [
+            {
+                "rs": 129,
+                "validity": "28 Days",
+                "desc": "2GB data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 300 SMS",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 149,
+                "validity": "24 Days",
+                "desc": "1GB data/day + Unlimited calls to Jio numbers/landline + 300 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 199,
+                "validity": "28 Days",
+                "desc": " 1.5GB/day data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 249,
+                "validity": "28 Days",
+                "desc": "2GB/day data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 329,
+                "validity": "84 Days",
+                "desc": "6GB data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 1000 SMS",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 349,
+                "validity": "28 Days",
+                "desc": "   3GB/day data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 399,
+                "validity": "56 Days",
+                "desc": " 1.5GB/day data + Unlimited calls to Jio numbers/landline + 2000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 444,
+                "validity": "56 Days",
+                "desc": " 2GB/day data + Unlimited calls to Jio numbers/landline + 2000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 555,
+                "validity": "84 Days",
+                "desc": "1.5GB/day data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 599,
+                "validity": "84 Days",
+                "desc": " 2GB/day data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 999,
+                "validity": "84 Days",
+                "desc": "3GB/day data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 1299,
+                "validity": "336 Days",
+                "desc": " 24GB data + Unlimited calls to Jio numbers/landline + 12000 minutes to non-Jio numbers + 3600 SMS",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 2121,
+                "validity": "336 Days",
+                "desc": "1.5GB data/day + Unlimited Jio to Jio calls + 12000 minutes to non-Jio numbers + 100SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 2399,
+                "validity": "365 Days",
+                "desc": "2GB 4G data/day + Unlimited Jio to Jio calls, Jio to Non-Jio FUP of 12000 minutes + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            },
+            {
+                "rs": 4999,
+                "validity": "360 Days",
+                "desc": "350 GB Data + Unlimited Jio to Jio calls, Jio to Non-Jio FUP of 12000 minutes + 100 SMS/day",
+                "Type": "NEW ALL-IN-ONE"
+            }
+        ],
+        "TOPUP": [
+            {
+                "rs": 10,
+                "validity": "Unlimited",
+                "desc": "7.47 Talktime,7.47 Talktime",
+                "Type": "Talktime"
+            },
+            {
+                "rs": 20,
+                "validity": "Unlimited",
+                "desc": "14.95 Talktime,14.95 Talktime",
+                "Type": "Talktime"
+            },
+            {
+                "rs": 50,
+                "validity": "Unlimited",
+                "desc": "39.37 Talktime,39.37 Talktime",
+                "Type": "Talktime"
+            },
+            {
+                "rs": 100,
+                "validity": "Unlimited",
+                "desc": "81.75 Talktime,81.75 Talktime",
+                "Type": "Talktime"
+            },
+            {
+                "rs": 500,
+                "validity": "Unlimited",
+                "desc": "420.73 Talktime,420.73 Talktime",
+                "Type": "Talktime"
+            },
+            {
+                "rs": 1000,
+                "validity": "Unlimited",
+                "desc": "844.46 Talktime,844.46 Talktime",
+                "Type": "Talktime"
+            }
+        ],
+        "DATA": [
+            {
+                "rs": 11,
+                "validity": "Valid Till Base Pack",
+                "desc": "800 MB 4G Data + 75 minutes to non-Jio [This recharge will get failed, if there is no active pack on your number]",
+                "Type": "Data Pack"
+            },
+            {
+                "rs": 21,
+                "validity": "Valid Till Base Pack",
+                "desc": "2GB 4G Data + 200 minutes to non-Jio [This recharge will get failed, if there is no active pack on your number]",
+                "Type": "Data Pack"
+            },
+            {
+                "rs": 51,
+                "validity": "Valid Till Base Pack",
+                "desc": "6GB 4G Data + 500 minutes to non-Jio [This recharge will get failed, if there is no active pack on your number]",
+                "Type": "Data Pack"
+            },
+            {
+                "rs": 101,
+                "validity": "Valid Till Base Pack",
+                "desc": "12GB 4G Data + 1000 minutes to non-Jio [This recharge will get failed, if there is no active pack on your number]",
+                "Type": "Data Pack"
+            }
+        ],
+        "SMS": null,
+        "RATE_CUTTER": null,
+        "TwoG": null,
+        "Romaing": [
+            {
+                "rs": 501,
+                "validity": "28 Days",
+                "desc": "551 Talktime for ISD calling only",
+                "Type": "International"
+            },
+            {
+                "rs": 1101,
+                "validity": "28 Days",
+                "desc": "1211 Talktime for usage during international roaming only",
+                "Type": "International"
+            }
+        ],
+        "COMBO": null,
+        "FRC": [
+            {
+                "rs": 228,
+                "validity": "28 Days",
+                "desc": "2GB data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 300 SMS",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 248,
+                "validity": "24 Days",
+                "desc": "1GB data/day + Unlimited calls to Jio numbers/landline + 300 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 298,
+                "validity": "28 Days",
+                "desc": " 1.5GB/day data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 348,
+                "validity": "28 Days",
+                "desc": "2GB/day data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 428,
+                "validity": "84 Days",
+                "desc": "6GB data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 1000 SMS",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 448,
+                "validity": "28 Days",
+                "desc": "   3GB/day data + Unlimited calls to Jio numbers/landline + 1000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 498,
+                "validity": "56 Days",
+                "desc": " 1.5GB/day data + Unlimited calls to Jio numbers/landline + 2000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 543,
+                "validity": "56 Days",
+                "desc": " 2GB/day data + Unlimited calls to Jio numbers/landline + 2000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 654,
+                "validity": "84 Days",
+                "desc": "1.5GB/day data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 698,
+                "validity": "84 Days",
+                "desc": " 2GB/day data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 1098,
+                "validity": "84 Days",
+                "desc": "3GB/day data + Unlimited calls to Jio numbers/landline + 3000 minutes to non-Jio numbers + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 1398,
+                "validity": "336 Days",
+                "desc": " 24GB data + Unlimited calls to Jio numbers/landline + 12000 minutes to non-Jio numbers + 3600 SMS",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 2220,
+                "validity": "336 Days",
+                "desc": "1.5GB data/day + Unlimited Jio to Jio calls + 12000 minutes to non-Jio numbers + 100SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 2498,
+                "validity": "365 Days",
+                "desc": "2GB 4G data/day + Unlimited Jio to Jio calls, Jio to Non-Jio FUP of 12000 minutes + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            },
+            {
+                "rs": 5098,
+                "validity": "360 Days",
+                "desc": "350 GB Data + Unlimited Jio to Jio calls, Jio to Non-Jio FUP of 12000 minutes + 100 SMS/day",
+                "Type": "FRC/non-Prime"
+            }
+        ],
+        "JioPhone": [
+            {
+                "rs": 49,
+                "validity": "14 Days",
+                "desc": "Unlimited Jio to Jio calls + 250 Minutes to non-Jio numbers + 2GB + 25 SMS",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 69,
+                "validity": "14 Days",
+                "desc": "Unlimited Jio to Jio calls + 250 Minutes to non-Jio numbers + 0.5GB/day + 25 SMS",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 75,
+                "validity": "28 Days",
+                "desc": "Unlimited Jio to Jio calls + 500 minutes to non-Jio numbers + 100 MB data/day + 50 SMS [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 99,
+                "validity": "28 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 0.5GB data per day (thereafter unlimited data with speed upto 64Kbps) + 300 SMS + non-Jio calls @ 6paise/minute [Only for JioPhone users][This recharge is only available for JioPrime members, non-Prime members can use 109 pack.]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 109,
+                "validity": "28 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 0.5GB data per day (thereafter unlimited data with speed upto 64Kbps) + 300 SMS + non-Jio calls @ 6paise/minute + 124 minutes to non-Jio numbers [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 125,
+                "validity": "28 Days",
+                "desc": "Unlimited Jio to Jio calls + 500 minutes to non-Jio numbers + 500 MB data/day + 300 SMS [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 153,
+                "validity": "28 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 1.5GB data per day  (thereafter unlimited data with speed upto 64Kbps) + 100 SMS/day + non-Jio calls @ 6paise/minute  [Only for JioPhone users][This recharge is only available for JioPrime members, non-Prime members can use 163 pack.]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 155,
+                "validity": "28 Days",
+                "desc": "Unlimited Jio to Jio calls + 500 minutes to non-Jio numbers + 1GB data/day + 100 SMS/day [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 163,
+                "validity": "28 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 1.5GB data per day  (thereafter unlimited data with speed upto 64Kbps) + 100 SMS/day + non-Jio calls @ 6paise/minute + 124 Minutes to non-Jio numbers  [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 185,
+                "validity": "28 Days",
+                "desc": "Unlimited Jio to Jio calls + 500 minutes to non-Jio numbers + 2GB data/day + 100 SMS/day [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 297,
+                "validity": "84 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 0.5GB data per day (thereafter unlimited data with speed upto 64Kbps) + 300 SMS + non-Jio calls @ 6paise/minute bsciption [Only for JioPhone users][This recharge is only available for JioPrime members, non-Prime members can use 307 pack.]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 307,
+                "validity": "84 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 0.5GB data per day (thereafter unlimited data with speed upto 64Kbps) + 300 SMS + non-Jio calls @ 6paise/minute + 124 minutes to non-Jio numbers [Only for JioPhone users]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 594,
+                "validity": "168 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 0.5GB data per day (thereafter unlimited data with speed upto 64Kbps) + 300 SMS  + non-Jio calls @ 6paise/minute  [Only for JioPhone users][This recharge is only available for JioPrime members, non-Prime members can use 604 pack.]",
+                "Type": "JioPhone"
+            },
+            {
+                "rs": 604,
+                "validity": "168 Days",
+                "desc": "Unlimited Calling (Local/STD/Roaming) to Jio numbers and landline + 0.5GB data per day (thereafter unlimited data with speed upto 64Kbps) + 300 SMS  + non-Jio calls @ 6paise/minute + 124 minutes to non-Jio numbers [Only for JioPhone users]",
+                "Type": "JioPhone"
+            }
+        ],
+        "STV": null
+    },
+    "MESSAGE": "Operator Plan Successfully"
+}
